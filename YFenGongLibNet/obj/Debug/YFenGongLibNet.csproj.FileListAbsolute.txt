@@ -1,0 +1,7 @@
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\bin\Debug\Newtonsoft.Json.dll
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\obj\Debug\YFenGongLibNet.csproj.CopyComplete
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\bin\Debug\YFenGongLibNet.dll
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\bin\Debug\YFenGongLibNet.pdb
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\obj\Debug\YFenGongLibNet.dll
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\obj\Debug\YFenGongLibNet.pdb
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibNet\obj\Debug\YFenGongLibNet.csprojAssemblyReference.cache

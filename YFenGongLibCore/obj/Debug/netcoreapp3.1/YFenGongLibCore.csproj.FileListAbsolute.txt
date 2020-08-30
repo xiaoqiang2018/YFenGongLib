@@ -1,0 +1,7 @@
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\bin\Debug\netcoreapp3.1\YFenGongLibCore.deps.json
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\bin\Debug\netcoreapp3.1\YFenGongLibCore.dll
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\bin\Debug\netcoreapp3.1\YFenGongLibCore.pdb
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\obj\Debug\netcoreapp3.1\YFenGongLibCore.csproj.CopyComplete
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\obj\Debug\netcoreapp3.1\YFenGongLibCore.dll
+E:\1_c#学习项目\自定义框架\易分工自定义框架\YFenGongLib\YFenGongLibCore\obj\Debug\netcoreapp3.1\YFenGongLibCore.pdb

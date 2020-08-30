@@ -1,0 +1,16 @@
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\bin\Debug\Hmeshop.YFenGong1.dll
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\bin\Debug\Hmeshop.YFenGong1.pdb
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\bin\Debug\Newtonsoft.Json.dll
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\obj\Debug\Hmeshop.YFenGong.csprojAssemblyReference.cache
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\obj\Debug\Hmeshop.YFenGong.csproj.CoreCompileInputs.cache
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\obj\Debug\Hmeshop.YFenGong.csproj.CopyComplete
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\obj\Debug\Hmeshop.YFenGong1.dll
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong1\obj\Debug\Hmeshop.YFenGong1.pdb
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\bin\Debug\Newtonsoft.Json.dll
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\obj\Debug\Hmeshop.YFenGong.csproj.CoreCompileInputs.cache
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\obj\Debug\Hmeshop.YFenGong.csproj.CopyComplete
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\bin\Debug\Hmeshop.YFenGong.dll
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\bin\Debug\Hmeshop.YFenGong.pdb
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\obj\Debug\Hmeshop.YFenGong.dll
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\obj\Debug\Hmeshop.YFenGong.pdb
+E:\work\英菲兰朵\Trunk\Hmeshop.YFenGong\obj\Debug\Hmeshop.YFenGong.csprojAssemblyReference.cache
