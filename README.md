@@ -15,6 +15,6 @@
 
 本项目已在nuget包上线。框架支持net framwork 和 net core
 请搜索 YFenGongLibCore 即core版本
-搜索 YFenGongLibNet 即 net 版本
+搜索 	YFG.Interface.YFenGongLibNet 即 net 版本
 
 
